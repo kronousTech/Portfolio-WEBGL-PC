@@ -54,7 +54,11 @@
         }
         updateBannerVisibility();
       }
-
+      // --- Removing Scrollbar
+      document.body.scrollTop = 0;
+      document.body.style.overflow = 'hidden';
+      // --- --- --- --- --- --- ---
+      
       var buildUrl = "Build";
       var loaderUrl = buildUrl + "/Portfolio-WEBGL-PC.loader.js";
       var config = {
