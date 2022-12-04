@@ -8,6 +8,10 @@
     <link rel="stylesheet" href="TemplateData/style.css">
   </head>
   <body>
+    <div class="webgl-content">
+      <div id="unityContainer" style="width: 100vw; height: 100vh;"></div>
+    </div>
+
     <div id="unity-container" class="unity-desktop">
       <canvas id="unity-canvas" width=960 height=600></canvas>
       <div id="unity-loading-bar">
@@ -16,7 +20,10 @@
           <div id="unity-progress-bar-full"></div>
         </div>
       </div>
-      <div id="unity-warning"> </div>
+
+      <div id="unity-warning"> 
+      </div>
+
       <div id="unity-footer">
         <div id="unity-webgl-logo"></div>
         <div id="unity-fullscreen-button"></div>
