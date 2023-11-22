@@ -1,6 +1,3 @@
-<<<<<<< Updated upstream
-BundleVersion: 202311222818
-=======
 BundleVersion: 202311224027
 ManifestFileVersion: 0
 CRC: 1243608231
@@ -20,5 +17,4 @@ Assets:
 - Assets/Art/PortfolioContent/Valongo360/Screenshot_1.png
 - Assets/Art/PortfolioContent/Valongo360/Screenshot_2.png
 Dependencies: []
->>>>>>> Stashed changes
 

@@ -1,6 +1,3 @@
-<<<<<<< Updated upstream
-BundleVersion: 202311222818
-=======
 BundleVersion: 202311224027
 ManifestFileVersion: 0
 CRC: 3286052843
@@ -21,5 +18,4 @@ Assets:
 - Assets/Art/PortfolioContent/GoldEnergy/Screenshot_3.png
 - Assets/Art/PortfolioContent/GoldEnergy/Screenshot_4.png
 Dependencies: []
->>>>>>> Stashed changes
 

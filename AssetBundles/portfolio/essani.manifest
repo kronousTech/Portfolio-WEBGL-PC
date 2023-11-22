@@ -1,6 +1,3 @@
-<<<<<<< Updated upstream
-BundleVersion: 202311222818
-=======
 BundleVersion: 202311224027
 ManifestFileVersion: 0
 CRC: 3747880475
@@ -24,5 +21,4 @@ Assets:
 - Assets/Art/PortfolioContent/Essani/House 1 2.png
 - Assets/Art/PortfolioContent/Essani/House 1.png
 Dependencies: []
->>>>>>> Stashed changes
 
