@@ -1,19 +1,2 @@
-BundleVersion: 202311224519
-ManifestFileVersion: 0
-CRC: 2132827846
-Hashes:
-  AssetFileHash:
-    serializedVersion: 2
-    Hash: efe5caa2e35afdc5738a36d9fa2735d3
-  TypeTreeHash:
-    serializedVersion: 2
-    Hash: b0363f7088f9761414f730641bf9a24b
-HashAppended: 0
-ClassTypes:
-- Class: 28
-  Script: {instanceID: 0}
-SerializeReferenceClassIdentifiers: []
-Assets:
-- Assets/Art/PortfolioContent/SuperBock/SuperBockImage.png
-Dependencies: []
+BundleVersion: 202311222818
 

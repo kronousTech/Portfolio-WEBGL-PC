@@ -1,26 +1,2 @@
-BundleVersion: 202311224519
-ManifestFileVersion: 0
-CRC: 1918198996
-Hashes:
-  AssetFileHash:
-    serializedVersion: 2
-    Hash: 69d054fa6ce8a5748998920cce68b501
-  TypeTreeHash:
-    serializedVersion: 2
-    Hash: ddc2c7839f957e5fa6c71c75f9c01c64
-HashAppended: 0
-ClassTypes:
-- Class: 28
-  Script: {instanceID: 0}
-- Class: 329
-  Script: {instanceID: 0}
-SerializeReferenceClassIdentifiers: []
-Assets:
-- Assets/Art/PortfolioContent/Siroco/Screenshot_4.png
-- Assets/Art/PortfolioContent/Siroco/Screenshot_3.png
-- Assets/Art/PortfolioContent/Siroco/Screenshot_2.png
-- Assets/Art/PortfolioContent/Siroco/Screen Recording (1-6-2023 8-52-32 AM).wmv
-- Assets/Art/PortfolioContent/Siroco/Screenshot_1.png
-- Assets/Art/PortfolioContent/Siroco/Screenshot_5.png
-Dependencies: []
+BundleVersion: 202311222818
 

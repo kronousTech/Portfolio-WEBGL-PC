@@ -1,27 +1,2 @@
-BundleVersion: 202311224519
-ManifestFileVersion: 0
-CRC: 528190464
-Hashes:
-  AssetFileHash:
-    serializedVersion: 2
-    Hash: 393ca7e83e237f4b6aaaca312aecdfbd
-  TypeTreeHash:
-    serializedVersion: 2
-    Hash: ddc2c7839f957e5fa6c71c75f9c01c64
-HashAppended: 0
-ClassTypes:
-- Class: 28
-  Script: {instanceID: 0}
-- Class: 329
-  Script: {instanceID: 0}
-SerializeReferenceClassIdentifiers: []
-Assets:
-- Assets/Art/PortfolioContent/Grandola Mupi/Screenshot_5.png
-- Assets/Art/PortfolioContent/Grandola Mupi/Screenshot_1.png
-- Assets/Art/PortfolioContent/Grandola Mupi/Olaria Mupi Words.mp4
-- Assets/Art/PortfolioContent/Grandola Mupi/Screenshot_3.png
-- "Assets/Art/PortfolioContent/Grandola Mupi/Olaria Mupi Informa\xE7\xF5es.mp4"
-- Assets/Art/PortfolioContent/Grandola Mupi/Screenshot_2.png
-- Assets/Art/PortfolioContent/Grandola Mupi/Olaria Mupi como fazer barro.mp4
-Dependencies: []
+BundleVersion: 202311222818
 
