@@ -1,2 +1,26 @@
+<<<<<<< Updated upstream
 BundleVersion: 202311222818
+=======
+BundleVersion: 202311224027
+ManifestFileVersion: 0
+CRC: 1349139583
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6319c0c146f4e8301b3b528a5eef267d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Art/PortfolioContent/Ooty/Interior View.png
+- Assets/Art/PortfolioContent/Ooty/House 2.png
+- Assets/Art/PortfolioContent/Ooty/House Editor.png
+- Assets/Art/PortfolioContent/Ooty/House 1.png
+Dependencies: []
+>>>>>>> Stashed changes
 
