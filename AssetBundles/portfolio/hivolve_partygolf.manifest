@@ -1,0 +1,27 @@
+BundleVersion: 202311224519
+ManifestFileVersion: 0
+CRC: 907243158
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7cd357ad9a51aaa97bcc580379c9933b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ddc2c7839f957e5fa6c71c75f9c01c64
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 329
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Art/PortfolioContent/hivolve_PartyGolf/Gameplay.png
+- Assets/Art/PortfolioContent/hivolve_PartyGolf/Shop.png
+- Assets/Art/PortfolioContent/hivolve_PartyGolf/Screenrecorder-2023-01-02-03-31-34-198.mp4
+- Assets/Art/PortfolioContent/hivolve_PartyGolf/MainMenu.png
+- Assets/Art/PortfolioContent/hivolve_PartyGolf/Local Multiplayer.png
+- Assets/Art/PortfolioContent/hivolve_PartyGolf/Level Select.jpg
+- Assets/Art/PortfolioContent/hivolve_PartyGolf/VID_20230102_033635.mp4
+Dependencies: []
+

@@ -1,0 +1,19 @@
+BundleVersion: 202311224519
+ManifestFileVersion: 0
+CRC: 2397357053
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 34b4a908e33ab0a16c0c2676ac55c3c7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Art/Face/Face.png
+Dependencies: []
+
