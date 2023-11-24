@@ -1,0 +1,22 @@
+BundleVersion: 20231124517
+ManifestFileVersion: 0
+CRC: 153383263
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e39e8b72d70498c5aeaea1730cf0b726
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Art/PortfolioContent/Grandola AR/Screenshot_1.png
+- Assets/Art/PortfolioContent/Grandola AR/Screenshot_2.png
+- Assets/Art/PortfolioContent/Grandola AR/Screenshot_3.png
+- Assets/Art/PortfolioContent/Grandola AR/Screenshot_4.png
+Dependencies: []
+

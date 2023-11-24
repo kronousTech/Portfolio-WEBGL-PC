@@ -1,0 +1,22 @@
+BundleVersion: 20231124517
+ManifestFileVersion: 0
+CRC: 1924943959
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6a4080f58ab937930ba0d8aba782aff6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Art/PortfolioContent/Grandola VR/Screenshot_4.png
+- Assets/Art/PortfolioContent/Grandola VR/Screenshot_3.png
+- Assets/Art/PortfolioContent/Grandola VR/Screenshot_2.png
+- Assets/Art/PortfolioContent/Grandola VR/Screenshot_1.png
+Dependencies: []
+

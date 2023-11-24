@@ -1,0 +1,22 @@
+BundleVersion: 20231124517
+ManifestFileVersion: 0
+CRC: 102646393
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2681e3c0a78cf3cf504304cd4d25d802
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Art/PortfolioContent/Grandola Mupi/Screenshot_5.png
+- Assets/Art/PortfolioContent/Grandola Mupi/Screenshot_1.png
+- Assets/Art/PortfolioContent/Grandola Mupi/Screenshot_3.png
+- Assets/Art/PortfolioContent/Grandola Mupi/Screenshot_2.png
+Dependencies: []
+

@@ -1,0 +1,22 @@
+BundleVersion: 20231124517
+ManifestFileVersion: 0
+CRC: 3476875907
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8a484014b87fba62880f05017195782b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Art/PortfolioContent/Ooty/Interior View.png
+- Assets/Art/PortfolioContent/Ooty/House 2.png
+- Assets/Art/PortfolioContent/Ooty/House Editor.png
+- Assets/Art/PortfolioContent/Ooty/House 1.png
+Dependencies: []
+
