@@ -1,0 +1,24 @@
+BundleVersion: 202311224027
+ManifestFileVersion: 0
+CRC: 3747880475
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 747060a7ce81da51bf00eb61a5c65f21
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Art/PortfolioContent/Essani/Factory 1 2.png
+- Assets/Art/PortfolioContent/Essani/Store 1.png
+- Assets/Art/PortfolioContent/Essani/Store 1 2.png
+- Assets/Art/PortfolioContent/Essani/Factory 1.png
+- Assets/Art/PortfolioContent/Essani/House 1 2.png
+- Assets/Art/PortfolioContent/Essani/House 1.png
+Dependencies: []
+

@@ -1,0 +1,25 @@
+BundleVersion: 202311224027
+ManifestFileVersion: 0
+CRC: 2927492724
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cb5bc1011c3c3c122e4423b3bae31ae8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ddc2c7839f957e5fa6c71c75f9c01c64
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 329
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Art/PortfolioContent/Grandola AR/Screenshot_1.png
+- Assets/Art/PortfolioContent/Grandola AR/Screenshot_2.png
+- Assets/Art/PortfolioContent/Grandola AR/Screenshot_3.png
+- Assets/Art/PortfolioContent/Grandola AR/Olaria AR.mp4
+- Assets/Art/PortfolioContent/Grandola AR/Screenshot_4.png
+Dependencies: []
+

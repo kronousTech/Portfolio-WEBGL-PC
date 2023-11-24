@@ -1,0 +1,22 @@
+BundleVersion: 202311224027
+ManifestFileVersion: 0
+CRC: 1986680028
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 32beb021ec46f6f1e97fbc077e029c02
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ddc2c7839f957e5fa6c71c75f9c01c64
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 329
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Art/PortfolioContent/SABSEG/2638987133.mp4
+- Assets/Art/PortfolioContent/SABSEG/Screenshot_5.png
+Dependencies: []
+

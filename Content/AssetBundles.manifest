@@ -1,0 +1,52 @@
+ManifestFileVersion: 0
+CRC: 309629485
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: portfolio/hivolve_partygolf
+      Dependencies: {}
+    Info_1:
+      Name: portfolio/adiravr
+      Dependencies: {}
+    Info_2:
+      Name: portfolio/empigest
+      Dependencies: {}
+    Info_3:
+      Name: portfolio/esposende360
+      Dependencies: {}
+    Info_4:
+      Name: portfolio/essani
+      Dependencies: {}
+    Info_5:
+      Name: gallery/face
+      Dependencies: {}
+    Info_6:
+      Name: portfolio/goldenergy
+      Dependencies: {}
+    Info_7:
+      Name: portfolio/grandolaar
+      Dependencies: {}
+    Info_8:
+      Name: portfolio/grandolamupi
+      Dependencies: {}
+    Info_9:
+      Name: portfolio/grandolavr
+      Dependencies: {}
+    Info_10:
+      Name: portfolio/ooty
+      Dependencies: {}
+    Info_11:
+      Name: portfolio/sabseg
+      Dependencies: {}
+    Info_12:
+      Name: portfolio/siroco
+      Dependencies: {}
+    Info_13:
+      Name: portfolio/superbock
+      Dependencies: {}
+    Info_14:
+      Name: portfolio/valongo360
+      Dependencies: {}
+    Info_15:
+      Name: portfolio/webgltemplate
+      Dependencies: {}
