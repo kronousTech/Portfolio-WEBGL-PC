@@ -1,5 +1,5 @@
-ManifestFileVersion: 20231124517
-CRC: 4193780410
+ManifestFileVersion: 0
+CRC: 1843399406
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -49,4 +49,7 @@ AssetBundleManifest:
       Dependencies: {}
     Info_15:
       Name: portfolio/webgltemplate
+      Dependencies: {}
+    Info_16:
+      Name: gallery/memes
       Dependencies: {}
