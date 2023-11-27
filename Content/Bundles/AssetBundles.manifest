@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 1843399406
+CRC: 3305680135
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -52,4 +52,7 @@ AssetBundleManifest:
       Dependencies: {}
     Info_16:
       Name: gallery/memes
+      Dependencies: {}
+    Info_17:
+      Name: portfolio/codeverze
       Dependencies: {}
