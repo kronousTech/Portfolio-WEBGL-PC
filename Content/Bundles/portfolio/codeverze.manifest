@@ -1,10 +1,10 @@
-BundleVersion: 202311273237
+BundleVersion: 20231127536
 ManifestFileVersion: 0
-CRC: 2667208697
+CRC: 3547432688
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: b3d32ebb2b41979c2e549b3f4d0f9eff
+    Hash: e8a96fa7c76ef856840242ffb2092c15
   TypeTreeHash:
     serializedVersion: 2
     Hash: b0363f7088f9761414f730641bf9a24b
@@ -14,6 +14,6 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Art/PortfolioContent/Codeverze/Logo.jpeg
+- Assets/Art/PortfolioContent/Codeverze/Logo.png
 Dependencies: []
 
