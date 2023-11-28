@@ -1,10 +1,10 @@
-BundleVersion: 20231127536
+BundleVersion: 202311284536
 ManifestFileVersion: 0
-CRC: 3547432688
+CRC: 696244336
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: e8a96fa7c76ef856840242ffb2092c15
+    Hash: aae8e5300dadf1528fcf47cdb3d6eb30
   TypeTreeHash:
     serializedVersion: 2
     Hash: b0363f7088f9761414f730641bf9a24b
