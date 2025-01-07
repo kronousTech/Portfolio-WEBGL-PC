@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 986766341
+CRC: 1256023890
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -55,4 +55,7 @@ AssetBundleManifest:
       Dependencies: {}
     Info_17:
       Name: portfolio/codeverze
+      Dependencies: {}
+    Info_18:
+      Name: portfolio/mower
       Dependencies: {}
