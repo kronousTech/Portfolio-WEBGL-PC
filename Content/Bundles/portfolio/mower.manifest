@@ -1,0 +1,22 @@
+BundleVersion: 202517320
+ManifestFileVersion: 0
+CRC: 619408519
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3f817aa1dae3398ef00ca0ccb862aa23
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Art/PortfolioContent/MowerMayhem/2.jpg
+- Assets/Art/PortfolioContent/MowerMayhem/4.jpg
+- Assets/Art/PortfolioContent/MowerMayhem/1.jpg
+- Assets/Art/PortfolioContent/MowerMayhem/3.jpg
+Dependencies: []
+
